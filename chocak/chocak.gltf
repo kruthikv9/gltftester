@@ -1,0 +1,152 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v1.1.46",
+        "version" : "2.0"
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0,
+                1
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "name" : "Light",
+            "rotation" : [
+                0.16907575726509094,
+                0.7558803558349609,
+                -0.27217137813568115,
+                0.570947527885437
+            ],
+            "translation" : [
+                4.076245307922363,
+                5.903861999511719,
+                -1.0054539442062378
+            ]
+        },
+        {
+            "mesh" : 0,
+            "name" : "mesh",
+            "scale" : [
+                0.30000001192092896,
+                0.30000001192092896,
+                0.30000001192092896
+            ]
+        }
+    ],
+    "materials" : [
+        {
+            "doubleSided" : true,
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "name" : "material_0",
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 0,
+                    "texCoord" : 0
+                },
+                "metallicFactor" : 0,
+                "roughnessFactor" : 1
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "mesh",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2
+                    },
+                    "indices" : 3,
+                    "material" : 0
+                }
+            ]
+        }
+    ],
+    "textures" : [
+        {
+            "source" : 0
+        }
+    ],
+    "images" : [
+        {
+            "mimeType" : "image/jpeg",
+            "name" : "tex01",
+            "uri" : "tex01.jpg"
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 113191,
+            "max" : [
+                14.462789535522461,
+                2.9774599075317383,
+                13.500800132751465
+            ],
+            "min" : [
+                -14.959585189819336,
+                -0.38620901107788086,
+                -15.458797454833984
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 113191,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 113191,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5125,
+            "count" : 611181,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 1358292,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1358292,
+            "byteOffset" : 1358292
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 905528,
+            "byteOffset" : 2716584
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2444724,
+            "byteOffset" : 3622112
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 6066836,
+            "uri" : "chocak.bin"
+        }
+    ]
+}
