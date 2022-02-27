@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mr Doge
+* source:	https://sketchfab.com/3d-models/mr-doge-056147a63d2b499fbc973a757c49c402
+* author:	SirMalhare (https://sketchfab.com/SirMalhare)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mr Doge" (https://sketchfab.com/3d-models/mr-doge-056147a63d2b499fbc973a757c49c402) by SirMalhare (https://sketchfab.com/SirMalhare) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
